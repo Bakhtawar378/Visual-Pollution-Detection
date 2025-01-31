@@ -19,7 +19,7 @@ The goal was to identify and classify different types of visual pollution to hel
 Here’s a demo of how the model works:
 
 <video width="320" height="240" controls>
-  <source src="VIDEO5.mp4" type="video/mp4">
+  <source src="[VIDEO5.mp4](https://github.com/Bakhtawar378/Visual-Pollution-Detection/blob/main/VIDEO5.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
