@@ -12,5 +12,12 @@ The goal was to identify and classify different types of visual pollution to hel
 
 ### Results
 
-<img src="image.png" width="300" height="auto">
+<img src="image.png" width="450" height="auto">
+
+### Project Demo
+
+Here’s a demo of how the model works:
+
+<iframe width="560" height="315" src="VIDEO5.mp4" frameborder="0" allowfullscreen></iframe>
+
 
