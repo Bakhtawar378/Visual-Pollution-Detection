@@ -16,11 +16,6 @@ The goal was to identify and classify different types of visual pollution to hel
 
 ### Project Demo
 
-Here’s a demo of how the model works:
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/Bakhtawar378/Visual-Pollution-Detection/raw/main/VIDEO5.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+The demo can be seen in the uploaded videos in the repository
 
 
