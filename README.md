@@ -18,6 +18,9 @@ The goal was to identify and classify different types of visual pollution to hel
 
 Here’s a demo of how the model works:
 
-<iframe width="560" height="315" src="VIDEO5.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="VIDEO5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
